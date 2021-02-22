@@ -20,7 +20,7 @@ def check_prob(pr):
 
     for i in range(len(res)):
         dic[res[i]] = res.count(res[i])
-# comment kk
+# comment testing
     return dic
 
 
